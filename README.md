@@ -1,5 +1,6 @@
 # PHGT
 Code for IJCAI'24: Heterogeneous Graph Transformer with Poly-Tokenization. 
+This code is based on [HGB](https://github.com/THUDM/HGB) and [HINormer](https://github.com/Ffffffffire/HINormer)
 
 # Requirement
 
