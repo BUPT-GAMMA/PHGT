@@ -1,9 +1,3 @@
-#!C:\pythonCode
-# -*- coding: utf-8 -*-
-# @Time   : 4/12/23 09:50
-# @File   : HDE.py
-# @Author : Zhiyuan Lu
-# @Email  : luzy@bupt.edu.cn
 import dgl
 import networkx as nx
 import numpy as np
