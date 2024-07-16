@@ -1,9 +1,3 @@
-#!C:\pythonCode
-# -*- coding: utf-8 -*-
-# @Time   : 4/19/23 21:22
-# @File   : base_model.py
-# @Author : Zhiyuan Lu
-# @Email  : luzy@bupt.edu.cn
 from abc import ABCMeta
 import torch.nn as nn
 
