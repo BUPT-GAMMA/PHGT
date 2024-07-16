@@ -1,9 +1,3 @@
-#!C:\pythonCode
-# -*- coding: utf-8 -*-
-# @Time   : 4/19/23 21:17
-# @File   : hetero_utils.py
-# @Author : Zhiyuan Lu
-# @Email  : luzy@bupt.edu.cn
 import torch as th
 
 
